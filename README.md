@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoungKim11x
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analysis tools
-- 💞️ I’m looking to collaborate on Anybody on Data Analysis field
+- 💞️ I’m looking to collaborate with Anybody on Data Analysis field
 - 📫 How to reach me - on Github!
 
 <!---
